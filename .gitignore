@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Personal CSV files (keep test.csv)
+*.csv
+!test.csv
+
+# Claude AI
+.claude
+CLAUDE.md
+
+# Filter config (optional)
+filter-config.txt
